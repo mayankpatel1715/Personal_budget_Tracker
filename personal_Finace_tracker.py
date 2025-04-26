@@ -2,7 +2,7 @@ import math
 
 # Income 
 
-income = int(input("Enter your monthly income:₹ "))
+income = int(input("Enter your monthly income: ₹"))
 
 # Split
 
